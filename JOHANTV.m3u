@@ -346,3 +346,9 @@ http://client-premiumzone.in:8080/eva/eva/27705
 http://client-premiumzone.in:8080/eva/eva/27704
 #EXTINF:0,Mexico: ESPN 3
 http://client-premiumzone.in:8080/eva/eva/27703
+#EXTINF:-1,VIP LAT: ESPN 1 HD Arg
+http://client-premiumzone.in:8080/emile/emile/14414
+#EXTINF:-1,VIP LAT: ESPN 2 HD Arg
+http://client-premiumzone.in:8080/emile/emile/14413
+#EXTINF:-1,VIP LAT: ESPN 3 HD Arg
+http://client-premiumzone.in:8080/emile/emile/14412
