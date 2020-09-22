@@ -198,68 +198,6 @@ http://62.210.83.40:25461/jose/jose/2429
 http://62.210.83.40:25461/jose/jose/401
 #EXTINF:-1,ECU-GolTv(SAT)(SD)
 http://62.210.83.40:25461/jose/jose/9839
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Alf" tvg-logo="" group-title="24/7",Alf
-http://roedor.xyz/REGIO2O2O/mc.php?c=278&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Animaniacs" tvg-logo="" group-title="24/7",Animaniacs
-http://roedor.xyz/REGIO2O2O/mc.php?c=279&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bob Sponja" tvg-logo="" group-title="24/7",Bob Sponja
-http://roedor.xyz/REGIO2O2O/mc.php?c=280&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas" tvg-logo="" group-title="24/7",Cantinflas
-http://roedor.xyz/REGIO2O2O/mc.php?c=281&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito" tvg-logo="" group-title="24/7",Chespirito
-http://roedor.xyz/REGIO2O2O/mc.php?c=282&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Correcaminos" tvg-logo="" group-title="24/7",Correcaminos
-http://roedor.xyz/REGIO2O2O/mc.php?c=283&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dr House" tvg-logo="" group-title="24/7",Dr House
-http://roedor.xyz/REGIO2O2O/mc.php?c=284&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball GT" tvg-logo="" group-title="24/7",Dragon Ball GT
-http://roedor.xyz/REGIO2O2O/mc.php?c=285&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball" tvg-logo="" group-title="24/7",Dragon Ball
-http://roedor.xyz/REGIO2O2O/mc.php?c=286&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball SUPER" tvg-logo="" group-title="24/7",Dragon Ball SUPER
-http://roedor.xyz/REGIO2O2O/mc.php?c=287&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Z" tvg-logo="" group-title="24/7",Dragon Ball Z
-http://roedor.xyz/REGIO2O2O/mc.php?c=288&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | El chavo del 8" tvg-logo="" group-title="24/7",El chavo del 8
-http://roedor.xyz/REGIO2O2O/mc.php?c=289&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="" group-title="24/7",Futurama
-http://roedor.xyz/REGIO2O2O/mc.php?c=291&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Pantera Rosa" tvg-logo="" group-title="24/7",La Pantera Rosa
-http://roedor.xyz/REGIO2O2O/mc.php?c=292&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Teoria Del Big Bang" tvg-logo="" group-title="24/7",La Teoria Del Big Bang
-http://roedor.xyz/REGIO2O2O/mc.php?c=293&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los 3 chiflados" tvg-logo="" group-title="24/7",Los 3 chiflados
-http://roedor.xyz/REGIO2O2O/mc.php?c=295&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Caballeros del Zodiaco" tvg-logo="" group-title="24/7",Los Caballeros del Zodiaco
-http://roedor.xyz/REGIO2O2O/mc.php?c=297&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson 2" tvg-logo="" group-title="24/7",Los Simpson 2
-http://roedor.xyz/REGIO2O2O/mc.php?c=299&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson" tvg-logo="" group-title="24/7",Los Simpson
-http://roedor.xyz/REGIO2O2O/mc.php?c=300&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Malcolm El De En Medio" tvg-logo="" group-title="24/7",Malcolm El De En Medio
-http://roedor.xyz/REGIO2O2O/mc.php?c=301&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Mr. Bean" tvg-logo="" group-title="24/7",Mr. Bean
-http://roedor.xyz/REGIO2O2O/mc.php?c=302&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Naruto" tvg-logo="" group-title="24/7",Naruto
-http://roedor.xyz/REGIO2O2O/mc.php?c=303&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Padre De Familia" tvg-logo="" group-title="24/7",Padre De Familia
-http://roedor.xyz/REGIO2O2O/mc.php?c=304&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peliculas 2018" tvg-logo="" group-title="24/7",Peliculas 2018
-http://roedor.xyz/REGIO2O2O/mc.php?c=305&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="" group-title="24/7",Pokemon
-http://roedor.xyz/REGIO2O2O/mc.php?c=308&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Smallville" tvg-logo="" group-title="24/7",Smallville
-http://roedor.xyz/REGIO2O2O/mc.php?c=309&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | South Park" tvg-logo="" group-title="24/7",South Park
-http://roedor.xyz/REGIO2O2O/mc.php?c=310&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Thundercats" tvg-logo="" group-title="24/7",Thundercats
-http://roedor.xyz/REGIO2O2O/mc.php?c=311&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Un Agente De Familia" tvg-logo="" group-title="24/7",Un Agente De Familia
-http://roedor.xyz/REGIO2O2O/mc.php?c=312&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Un Show MAS" tvg-logo="" group-title="24/7",Un Show MAS
-http://roedor.xyz/REGIO2O2O/mc.php?c=313&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | X-men" tvg-logo="" group-title="24/7",X-men
-http://roedor.xyz/REGIO2O2O/mc.php?c=314&f=.m3u8
 #EXTINF:0,ECU-Rts HD
 http://62.210.83.40:25461/jose/jose/2436
 #EXTINF:0,ECU-TC Television Costa HD
@@ -276,10 +214,6 @@ http://62.210.83.40:25461/jose/jose/2423
 http://62.210.83.40:25461/jose/jose/208
 #EXTINF:0,Telemundo Miami
 http://62.210.83.40:25461/jose/jose/295
-#EXTINF:0,CIN-De Pelicula (SD)
-http://62.210.83.40:25461/jose/jose/14647
-#EXTINF:0,CIN-De Pelicula Plus(1080)
-http://62.210.83.40:25461/jose/jose/14648
 #EXTINF:-1,Latin: Espn 1 FHD
 http://client-premiumzone.in:8080/paco/paco/27507
 #EXTINF:-1,Latin: Espn 1 Sur
@@ -304,48 +238,12 @@ http://client-premiumzone.in:8080/paco/paco/27498
 http://client-premiumzone.in:8080/paco/paco/27497
 #EXTINF:-1,Latin: Espn Plus Sur HD
 http://client-premiumzone.in:8080/paco/paco/27496
-#EXTINF:-1,Latin: HBO
-http://client-premiumzone.in:8080/paco/paco/27414
-#EXTINF:-1,Latin: HBO 2
-http://client-premiumzone.in:8080/paco/paco/27413
-#EXTINF:-1,Latin: HBO 2 FHD
-http://client-premiumzone.in:8080/paco/paco/27412
-#EXTINF:-1,Latin: HBO 2 HD
-http://client-premiumzone.in:8080/paco/paco/27411
-#EXTINF:-1,Latin: HBO Family
-http://client-premiumzone.in:8080/paco/paco/27410
-#EXTINF:-1,Latin: HBO Family FHD
-http://client-premiumzone.in:8080/paco/paco/27409
-#EXTINF:-1,Latin: HBO Family HD
-http://client-premiumzone.in:8080/paco/paco/27408
-#EXTINF:-1,Latin: HBO FHD
-http://client-premiumzone.in:8080/paco/paco/27407
-#EXTINF:-1,Latin: HBO HD
-http://client-premiumzone.in:8080/paco/paco/27406
-#EXTINF:-1,Latin: HBO plus
-http://client-premiumzone.in:8080/paco/paco/27405
-#EXTINF:-1,Latin: HBO Plus FHD
-http://client-premiumzone.in:8080/paco/paco/27404
-#EXTINF:-1,Latin: HBO Plus HD
-http://client-premiumzone.in:8080/paco/paco/27403
-#EXTINF:-1,Latin: HBO Signature
-http://client-premiumzone.in:8080/paco/paco/27402
-#EXTINF:-1,Latin: HBO Signature FHD
-http://client-premiumzone.in:8080/paco/paco/27401
-#EXTINF:-1,Latin: HBO Signature HD
-http://client-premiumzone.in:8080/paco/paco/27400
 #EXTINF:-1,Latin: History Channel
 http://client-premiumzone.in:8080/paco/paco/27396
 #EXTINF:-1,Latin: History Channel FHD
 http://client-premiumzone.in:8080/paco/paco/27395
 #EXTINF:-1,Latin: History Channel HD
 http://client-premiumzone.in:8080/paco/paco/27394
-#EXTINF:0,Mexico: ESPN 1
-http://client-premiumzone.in:8080/eva/eva/27705
-#EXTINF:0,Mexico: ESPN 2
-http://client-premiumzone.in:8080/eva/eva/27704
-#EXTINF:0,Mexico: ESPN 3
-http://client-premiumzone.in:8080/eva/eva/27703
 #EXTINF:-1,VIP LAT: ESPN 1 HD Arg
 http://client-premiumzone.in:8080/emile/emile/14414
 #EXTINF:-1,VIP LAT: ESPN 2 HD Arg
