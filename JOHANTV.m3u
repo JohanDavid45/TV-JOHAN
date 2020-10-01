@@ -190,26 +190,6 @@ http://23.237.32.130/hls/UNIVISION.m3u8
 
 #EXTINF:-1,WARNER
 http://23.237.54.42/hls/WARNERCHANNELMX.m3u8
-#EXTINF:-1,ECU-GolTv (R3)
-http://62.210.83.40:25461/jose/jose/2428
-#EXTINF:-1,ECU-GolTv HD
-http://62.210.83.40:25461/jose/jose/2429
-#EXTINF:-1,GolTV Ecuador
-http://62.210.83.40:25461/jose/jose/401
-#EXTINF:-1,ECU-GolTv(SAT)(SD)
-http://62.210.83.40:25461/jose/jose/9839
-#EXTINF:0,ECU-Rts HD
-http://62.210.83.40:25461/jose/jose/2436
-#EXTINF:0,ECU-TC Television Costa HD
-http://62.210.83.40:25461/jose/jose/2439
-#EXTINF:0,ECU-Teleamazonas
-http://62.210.83.40:25461/jose/jose/2441
-#EXTINF:0,ECU-DIRECTV SPORTS
-http://62.210.83.40:25461/jose/jose/2411
-#EXTINF:0,ECU-Ecuavisa (R2)
-http://62.210.83.40:25461/jose/jose/2419
-#EXTINF:0,ECU-GamaTv HD
-http://62.210.83.40:25461/jose/jose/2423
 #EXTINF:0,MEX-Telemundo(720)
 http://62.210.83.40:25461/jose/jose/208
 #EXTINF:0,Telemundo Miami
@@ -258,3 +238,52 @@ http://client-premiumzone.in:8080/emile/emile/27046
 http://client-premiumzone.in:8080/emile/emile/27045
 #EXTINF:-1,Ecuador: DIRECTV Sports SD
 http://client-premiumzone.in:8080/emile/emile/27044
+#EXTINF:-1,ECUADOR | Gol TV
+http://ultraplay.org:80/jcarvacho/123123/1725
+#EXTINF:-1,SERVER 2LT | Gol TV
+http://ultraplay.org:80/jcarvacho/123123/12335
+#EXTINF:-1,SERVER 2LT | Gol TV HD
+http://ultraplay.org:80/jcarvacho/123123/12336
+#EXTINF:-1,SPORTS EC | Gol TV
+http://ultraplay.org:80/jcarvacho/123123/66494
+#EXTINF:-1,SPORTS HD | GOL TV
+http://ultraplay.org:80/jcarvacho/123123/66699
+#EXTINF:-1,GOLTV
+http://ultraplay.org:80/jcarvacho/123123/57897
+#EXTINF:-1,084 LAT: GOL TV / GOL TV PERU
+http://ultraplay.org:80/jcarvacho/123123/77251
+#EXTINF:-1,ECUADOR | Oromar
+http://ultraplay.org:80/jcarvacho/123123/1726
+#EXTINF:-1,ECUADOR | Rts
+http://ultraplay.org:80/jcarvacho/123123/1727
+#EXTINF:-1,ECUADOR | Rts FHD
+http://ultraplay.org:80/jcarvacho/123123/1728
+#EXTINF:-1,ECUADOR | Tc Television
+http://ultraplay.org:80/jcarvacho/123123/1729
+#EXTINF:-1,ECUADOR | Tc Television FHD
+http://ultraplay.org:80/jcarvacho/123123/1730
+#EXTINF:-1,ECUADOR | Teleamazonas
+http://ultraplay.org:80/jcarvacho/123123/1731
+#EXTINF:-1,ECUADOR | Teleamazonas FHD
+http://ultraplay.org:80/jcarvacho/123123/1732
+#EXTINF:-1,ECUADOR | Televicentro
+http://ultraplay.org:80/jcarvacho/123123/1733
+#EXTINF:-1,ECUADOR | Canal Uno
+http://ultraplay.org:80/jcarvacho/123123/1716
+#EXTINF:-1,ECUADOR | Canal Uno FHD
+http://ultraplay.org:80/jcarvacho/123123/1717
+#EXTINF:-1,ECUADOR | Canela Tv
+http://ultraplay.org:80/jcarvacho/123123/1718
+#EXTINF:-1,ECUADOR | Ecuador TV HD
+http://ultraplay.org:80/jcarvacho/123123/1719
+#EXTINF:-1,ECUADOR | Ecuador TV Internacional
+http://ultraplay.org:80/jcarvacho/123123/1720
+#EXTINF:-1,ECUADOR | Ecuavisa FHD
+http://ultraplay.org:80/jcarvacho/123123/1721
+#EXTINF:-1,ECUADOR | Ecuavisa HD
+http://ultraplay.org:80/jcarvacho/123123/1722
+#EXTINF:-1,ECUADOR | Ecuavisa Internacional
+http://ultraplay.org:80/jcarvacho/123123/1723
+#EXTINF:-1,ECUADOR | Gamavision
+http://ultraplay.org:80/jcarvacho/123123/1724
+
