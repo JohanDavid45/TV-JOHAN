@@ -782,28 +782,12 @@ http://client-premiumzone.in:8080/emile/emile/14414
 http://client-premiumzone.in:8080/emile/emile/14413
 #EXTINF:-1,VIP LAT: ESPN 3 HD Arg
 http://client-premiumzone.in:8080/emile/emile/14412
-#EXTINF:-1,Gol TV VIP Latin America
-http://portal.geniptv.com:8080/oE8UMweNRv/69ic4HJC19/11728
 #EXTINF:-1,Ecuador: DIRECTV Sports FHD
 http://client-premiumzone.in:8080/emile/emile/27046
 #EXTINF:-1,Ecuador: DIRECTV Sports HD
 http://client-premiumzone.in:8080/emile/emile/27045
 #EXTINF:-1,Ecuador: DIRECTV Sports SD
 http://client-premiumzone.in:8080/emile/emile/27044
-#EXTINF:-1,ECUADOR | Gol TV
-http://ultraplay.org:80/jcarvacho/123123/1725
-#EXTINF:-1,SERVER 2LT | Gol TV
-http://ultraplay.org:80/jcarvacho/123123/12335
-#EXTINF:-1,SERVER 2LT | Gol TV HD
-http://ultraplay.org:80/jcarvacho/123123/12336
-#EXTINF:-1,SPORTS EC | Gol TV
-http://ultraplay.org:80/jcarvacho/123123/66494
-#EXTINF:-1,SPORTS HD | GOL TV
-http://ultraplay.org:80/jcarvacho/123123/66699
-#EXTINF:-1,GOLTV
-http://ultraplay.org:80/jcarvacho/123123/57897
-#EXTINF:-1,084 LAT: GOL TV / GOL TV PERU
-http://ultraplay.org:80/jcarvacho/123123/77251
 #EXTINF:-1,ECUADOR | Oromar
 http://ultraplay.org:80/jcarvacho/123123/1726
 #EXTINF:-1,ECUADOR | Rts
@@ -850,3 +834,7 @@ http://client-premiumzone.in:8080/paco/paco/27143
 http://client-premiumzone.in:8080/paco/paco/27142
 #EXTINF:-1,Argentina: TyC Sports Internacional
 http://client-premiumzone.in:8080/paco/paco/27141
+#EXTINF:0,Ecuador: Gol TV
+http://client-premiumzone.in:8080/eva/eva/27037
+#EXTINF:0,Ecuador: Gol TV FHD
+http://client-premiumzone.in:8080/eva/eva/27036
