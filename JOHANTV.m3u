@@ -834,7 +834,9 @@ http://client-premiumzone.in:8080/paco/paco/27143
 http://client-premiumzone.in:8080/paco/paco/27142
 #EXTINF:-1,Argentina: TyC Sports Internacional
 http://client-premiumzone.in:8080/paco/paco/27141
-#EXTINF:0,Ecuador: Gol TV
-http://client-premiumzone.in:8080/eva/eva/27037
-#EXTINF:0,Ecuador: Gol TV FHD
-http://client-premiumzone.in:8080/eva/eva/27036
+#EXTINF:-1,PE - Gol TV
+http://latiniptv.vip:8008/live/Diego/Diego123/57695.ts
+#EXTINF:-1,PE - Gol TV
+http://latiniptv.vip:8008/live/Diego/Diego123/57840.ts
+#EXTINF:-1,PE - Gol TV
+http://latiniptv.vip:8008/live/Diego/Diego123/57857.ts
